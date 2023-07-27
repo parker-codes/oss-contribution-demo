@@ -1,3 +1,7 @@
+![seminar](./Seminar.png)
+
+
+
 # OSS Contribution Demo
 
 Hello, and welcome to this simple demo on how to contribute!
