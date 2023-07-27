@@ -1,6 +1,6 @@
 # Contributing Guide
 
-Hi! We, the maintainers, are really excited that you are interested in contributing to this project. Before submitting your contribution though, please make sure to take a moment and read through the [Code of Conduct](CODE_OF_CONDUCT.md), as well as the appropriate section for the contribution you intend to make:
+Hello! We, the maintainers, are really excited that you are interested in contributing to this project. Before submitting your contribution though, please make sure to take a moment and read through the [Code of Conduct](CODE_OF_CONDUCT.md), as well as the appropriate section for the contribution you intend to make:
 
 - [Issue Reporting Guidelines](#issue-reporting-guidelines)
 - [Pull Request Guidelines](#pull-request-guidelines)
